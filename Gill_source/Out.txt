@@ -1,0 +1,27 @@
+FSM number1 W={2 3 12 02  } time is 0 msec. numberofseq is 4 numberofinputs is 6
+FSM number2 W={0 3 13  } time is 0 msec. numberofseq is 3 numberofinputs is 3
+FSM number3 W={8 0 16  } time is 10 msec. numberofseq is 3 numberofinputs is 3
+FSM number4 W={7 0 14  } time is 6 msec. numberofseq is 3 numberofinputs is 3
+FSM number5 W={6 0 12  } time is 3 msec. numberofseq is 3 numberofinputs is 3
+FSM number6 W={5 0 10  } time is 2 msec. numberofseq is 3 numberofinputs is 3
+FSM number7 W={4 1 0 8  } time is 1 msec. numberofseq is 4 numberofinputs is 4
+FSM number8 W={3 1 0 6  } time is 1 msec. numberofseq is 4 numberofinputs is 4
+FSM number9 W={2 1 0 4  } time is 0 msec.
+ numberofseq is 4 numberofinputs is 4
+FSM number10 W={17  } time is 1 msec.
+ numberofseq is 1 numberofinputs is 1
+FSM number11 W={10  } time is 0 msec.
+ numberofseq is 1 numberofinputs is 1
+
+
+FSM 1 cofemachine
+FSM 2 learnmaestro
+FSM 3 snder 0 7
+FSM 4 sender 06
+FSM 5 sende 05
+FSM 6 sender 04
+FSM 7 sender 03
+FSM 8 sender 02
+FSM 9 sender 01
+FSM 10 frame 03
+FSM 11 frame 02
