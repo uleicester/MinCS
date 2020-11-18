@@ -1,0 +1,9 @@
+-----------------------------------------------------------------
+*The files were compiled using Microsoft Visual Studio .NET 2013. 
+*For each folder you may create one project. 
+*main.cpp is the main file for the execution. 
+
+*Each programm receives fsm.txt file that contains 
+*the targetted FSMs.
+*The results are then given in  out.txt
+-----------------------------------------------------------------
